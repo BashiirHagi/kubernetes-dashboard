@@ -1,6 +1,6 @@
 # kubernetes-dashboard
 
-Installed a kubernetes dashboard to monitor EKS cluster health and metrics 
+Installed a kubernetes dashboard on EKS cluster to monitor health and system metrics 
 
 Installed on default kubernetes namespace
 
